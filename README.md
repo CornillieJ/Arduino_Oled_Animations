@@ -10,7 +10,7 @@ The purpose of this project is to display small animations on an OLED display co
 ### Hardware showCase   
 [![Hardware showCase](https://img.youtube.com/vi/mcY3DI6WkEM/0.jpg)](https://youtu.be/mcY3DI6WkEM)
 ### Features showCase  
-[![Features showCase](https://img.youtube.com/vi/2NBflOi_jw/0.jpg)](https://youtu.be/2NBflOi_jw)
+[![Features showCase](https://img.youtube.com/vi/52NBflOi_jw/0.jpg)](https://youtu.be/52NBflOi_jw)
 
 ## Features
 
