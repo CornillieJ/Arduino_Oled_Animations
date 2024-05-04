@@ -18,8 +18,6 @@ String options[OPTIONSIZE] = { "BongoCat", "Kirby", "Navi","Turn Off"};
 byte kirbyState = 0;
 byte naviState = 0;
 
-
-
 byte input_left = 9;
 byte input_right = 2;
 byte input_select = 3;

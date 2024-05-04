@@ -6,6 +6,12 @@ Welcome to my Arduino OLED Display Animation project! This project utilizes an S
 
 The purpose of this project is to display small animations on an OLED display controlled by an Arduino. Users can interact with the animations using buttons to navigate through a menu and select different options.
 
+## ShowCase Videos
+- **Hardware showCase**: 
+[![Hardware showCase](https://img.youtube.com/vi/mcY3DI6WkEM0.jpg)](https://youtu.be/mcY3DI6WkEM)
+- **Features showCase**:
+[![Features showCase](https://img.youtube.com/vi/frrQctzdX90/0.jpg)](https://youtu.be/frrQctzdX90)
+
 ## Features
 
 - **Main Menu**: Upon starting the program, users are presented with a main menu where they can choose from a selection of animations or turn off the display.
