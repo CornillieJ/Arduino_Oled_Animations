@@ -49,3 +49,7 @@ Special thanks to Lizz for contributing the idea of this project.
 
 If you encounter any issues or have any questions, feel free to [contact me](mailto:jeffrey.cornillie@hotmail.com) or open an issue.
 
+## Resources
+
+[Images to Byte arrays](https://javl.github.io/image2cpp/)  
+[Gif to Frames](https://ezgif.com/split)  
